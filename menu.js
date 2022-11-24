@@ -10,4 +10,5 @@ function criarMenu(menus){
               ul.appendChild(item2);
               menu.appendChild(ul);
               m.appendChild(menu);
-
+	}
+}
